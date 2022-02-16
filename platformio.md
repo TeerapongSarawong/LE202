@@ -1,4 +1,4 @@
-วิธีดาวน์โหลดและติดตั้ง platformio
+# วิธีดาวน์โหลดและติดตั้ง platformio
 1.ไปที่เว็บ https://code.visualstudio.com/ 
 2. คลิ๊ก Dowload for Windows 
 3.จากนั้นกดติดตั้งแล้วเข้าไปที่แอป VScode
